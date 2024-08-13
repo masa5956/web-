@@ -1,4 +1,4 @@
-"homepage": "https://<masa5956>.github.io/<web->"
+"homepage": "https://masa5956.github.io/web-"
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
